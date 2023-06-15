@@ -1,0 +1,17 @@
+tc 2.1 Set new contribution percentage of 33.56%:
+  username: 'user3'
+  password: 'password123'
+  contribution: '970'
+  contribution_percenrage: '33.56%'
+
+tc 2.2 Set new contribution percentage of 2.1%:
+  username: 'user4'
+  password: 'password123'
+  contribution: '120.30'
+  contribution_percenrage: '2.1%'
+
+tc 2.3 Set new contribution percentage of 0.97%:
+  username: 'user5'
+  password: 'password123'
+  contribution: '43.80'
+  contribution_percenrage: '0.97%'
